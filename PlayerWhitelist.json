@@ -1,0 +1,365 @@
+{
+  "WhitelistedUsers": {
+    "919665092025528441": {
+      "hash": "8d2407c4f9e1f0a76818d4002043515b052dcf6e8d1a04f328ab1d5b0bf49d85b295de73bf472d3d2d7ee6aa35ede23f7323d75cc3bafc008b29fe2f0e111392",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "HCKR",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    "855868524585156618": {
+      "hash": "cbf8bb404dd0c7df07c0314672cd53d1f57c369c66da310907ea1d5e9ff6945f2dd94b50582e96d8c9e8973f7660568ac8373f470620a2e62eb64c6ae562874c",
+      "attackable": false,
+      "level": 1,
+      "tags": null
+    },
+    "709094619161296939": {
+      "hash": "bdce50cfecaba5b8c5d7f09371d98dd316af87d588c05650779ed6226c5bf3e164b870836e690f40db4021ddd7dfb76bd6017bec12b6e1df7e89f5a292abb828",
+      "attackable": false,
+      "level": 1,
+      "tags": null
+    },
+    "1125789044249460786": {
+      "hash": "b6d8fde04cea21fbfaeea12ca847cc5b59d4ea8c0a58e829bea7498829223267d241c595d201ba6c82e9602d71a0f253dfd6b2ce9a6a2f10406e0a679eb2e156",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "VAPE OWNER",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
+    },
+    "900134277616926780": {
+      "hash": "2e24c44b7f97ac617921decf6999733c28dd68514b1094e9d9dfa760256b86862b4c2a3e99bea98779b9844cc36d73112fb0fada5a55c98effcc815fa2ee4cb2",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
+    "961711371425300602": {
+      "hash": "9c5506cf98f284510831f14d35df48a2af0dba9d448809806c791b89d98b35af1f27167a77cc92eeb0aed12daca8373a3823bb33dbba1066cb27a1d74534490d",
+      "attackable": false,
+      "level": 1,
+      "tags": null
+    },
+    "1000432733467721799": {
+      "hash": "349f5117ed260ec68b7ad48a894eced46a78f352977e8818e6671a97048b416a33fe037088d227ae41c3f35caa193dfdca4abb72569ea0fc77807a155c327b9e",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
+          "color": [
+            57,
+            56,
+            110
+          ]
+        }
+      ]
+    },
+    "661623849825337373": {
+      "hash": "77ff4133480243922f0b267d2f9aabe6da69593a4beed284944d60c66244630d6f7122724fd76f52f7e929bad6db9f0c1251ac426c3fc3a944781e4058bdab3a",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
+    "989715351975624754": {
+      "hash": "c6e153376823745621d209cc2faead0e3e755b79bb3734c217c2218044d5c82f65dd4609d02b48b56bb64cac67cc3d377fd0c5a01f43b74875698d7739021614",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "PONG IS COOL HELLO STREAM AND THIS IS SCRXPTEDWARE ALREADY",
+          "color": [
+            255,
+            160,
+            122
+          ]
+        }
+      ]
+    },
+    "759071932276146216": {
+      "hash": "21b289826b7231aacf0b7ac7e895435851cba50f08f34eaac630438979994c1e5101a40f755eef9c37e6add1776d2b10bd88aa55a2cd5c6194e6a1885bf1f4f4",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "scrxpted",
+          "color": [
+            0,
+            255,
+            0
+          ]
+        }
+      ]
+    },
+    "771130296228904960": {
+      "hash": "0e6e5d750d009ae7895c2add0e812954d2fe2f8bde3859121263b0eed4b89802a3cc2cb01154ec8361bca7a9d4b20d5ccb8f5fa27779947a54969040a707e7c8",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "I am Fis",
+          "color": [
+            30,
+            144,
+            255
+          ]
+        }
+      ]
+    },
+    "1077461832056442901": {
+      "hash": "6299a5b2b57d1e2a54f38e7e6e22b7063f1c70e203cd493363e287009270112a936c381c5521065adb3eb4a6e67abaf9a67ae69fd7c360daa95bd538be84027d",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "PISTONWARE OWNER",
+          "color": [
+            255,
+            165,
+            0
+          ]
+        }
+      ]
+    },
+    "384718982625886208": {
+      "hash": "1596c3e5c9bd2cc1ef62d2456b02159934f2048abcd5c197107bc23c022653ddc6947588d59a0e7eb202d9de990854c9fad52f81341e77d35ec846219a369029",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Jesus",
+          "color": [
+            255,
+            255,
+            0
+          ]
+        }
+      ]
+    },
+    "548146409065545730": {
+      "hash": "587724bec3aab4af4df46cf392b01e4ac76f741b9887bebfa94e355bf18e25e6c5a85d788cd75be0d212395957e741d07682fcd4d51d04e49e417b451b5665b7",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    },
+    "1144358443394813993": {
+      "hash": "fd76bfc05e1cbeb0cfa09e1c5eb0d9252acb30e4638f70973b918160675380a2cb9a44c95c0beb5ae40e6c6b9ee9d7efd99c585059557fee7e11a5a955dd9037",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "HCKR",
+          "color": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    "1145068116007718952": {
+      "hash": "7b5710658487041467ebd43122fe56bb3a0dea6c52ec03f874f6f6a1ca2742c6b7b34fc1b87605148e6f45f19941a4e7d095fd6f3043f2a7598c18b63e4e1e35",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
+          "color": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    "830968256277643264": {
+      "hash": "1bd7f8ab0ff558eda82f163c9afac2c3331f2fa9ad74f9b739ef2d5e0c1a5a7caeb1b565c3a6dbd16fbdb16343727bf7a3cc5cf3b144204b25fa6b381b3ef8ef",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VAPE PRIVATE",
+          "color": [
+            178,
+            0,
+            255
+          ]
+        }
+      ]
+    }
+  },
+  "WhitelistedTags": {
+    "822903547540537384": [
+      {
+        "text": "VIP GAMING CHAIR",
+        "color": [
+          255,
+          255,
+          255
+        ]
+      }
+    ],
+    "378746510596243458": [
+      {
+        "text": "<font color=\"#FF0000\">A</font><font color=\"#FF3333\">C </font><font color=\"#FF6666\">M</font><font color=\"#FF9999\">O</font><font color=\"#FFCCCC\">D</font>",
+        "color": [
+          160,
+          34,
+          160
+        ]
+      }
+    ],
+    "709094619161296939": [
+      {
+        "text": "baller",
+        "color": [
+          0,
+          255,
+          0
+        ]
+      }
+    ],
+    "1000432733467721799": [
+      {
+        "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
+        "color": [
+          57,
+          56,
+          110
+        ]
+      }
+    ],
+    "759071932276146216": [
+      {
+        "text": "scrxpted",
+        "color": [
+          0,
+          255,
+          0
+        ]
+      }
+    ],
+    "771130296228904960": [
+      {
+        "text": "I am Fis",
+        "color": [
+          30,
+          144,
+          255
+        ]
+      }
+    ],
+    "919665092025528441": [
+      {
+        "text": "HCKR",
+        "color": [
+          255,
+          255,
+          255
+        ]
+      }
+    ],
+    "1077461832056442901": [
+      {
+        "text": "PISTONWARE OWNER",
+        "color": [
+          255,
+          165,
+          0
+        ]
+      }
+    ],
+    "989715351975624754": [
+      {
+        "text": "PONG IS COOL HELLO STREAM AND THIS IS SCRXPTEDWARE ALREADY",
+        "color": [
+          255,
+          160,
+          122
+        ]
+      }
+    ],
+    "384718982625886208": [
+      {
+        "text": "Jesus",
+        "color": [
+          255,
+          255,
+          0
+        ]
+      }
+    ],
+    "272412823148298240": [
+      {
+        "text": "Homo",
+        "color": [
+          255,
+          0,
+          0
+        ]
+      }
+    ],
+    "1145068116007718952": [
+      {
+        "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
+        "color": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "1144358443394813993": [
+      {
+        "text": "HCKR",
+        "color": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "BlacklistedUsers": []
+}
